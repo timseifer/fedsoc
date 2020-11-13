@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/fedsoc/static/css/main.42372679.chunk.css",
-    "main.js": "/fedsoc/static/js/main.2e304fcc.chunk.js",
-    "main.js.map": "/fedsoc/static/js/main.2e304fcc.chunk.js.map",
+    "main.js": "/fedsoc/static/js/main.f760bcfe.chunk.js",
+    "main.js.map": "/fedsoc/static/js/main.f760bcfe.chunk.js.map",
     "runtime-main.js": "/fedsoc/static/js/runtime-main.8bafe1e8.js",
     "runtime-main.js.map": "/fedsoc/static/js/runtime-main.8bafe1e8.js.map",
     "static/js/2.b4b37adb.chunk.js": "/fedsoc/static/js/2.b4b37adb.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.8bafe1e8.js",
     "static/js/2.b4b37adb.chunk.js",
     "static/css/main.42372679.chunk.css",
-    "static/js/main.2e304fcc.chunk.js"
+    "static/js/main.f760bcfe.chunk.js"
   ]
 }
