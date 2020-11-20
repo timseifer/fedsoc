@@ -1,0 +1,14 @@
+
+  
+  .bge {
+    z-index: -1;
+    position: fixed;
+    background-size: cover;
+    width: 100vw;
+    height: 200vh;
+    top: 0px;
+    background-position: center;
+    opacity: 70%;
+    overflow: hidden;
+  }
+
