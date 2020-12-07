@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/fedsoc/static/css/main.76e72c2d.chunk.css",
-    "main.js": "/fedsoc/static/js/main.455c9ebe.chunk.js",
-    "main.js.map": "/fedsoc/static/js/main.455c9ebe.chunk.js.map",
-    "runtime-main.js": "/fedsoc/static/js/runtime-main.540afd81.js",
-    "runtime-main.js.map": "/fedsoc/static/js/runtime-main.540afd81.js.map",
-    "static/js/2.45861a36.chunk.js": "/fedsoc/static/js/2.45861a36.chunk.js",
-    "static/js/2.45861a36.chunk.js.map": "/fedsoc/static/js/2.45861a36.chunk.js.map",
-    "static/js/3.dca4562e.chunk.js": "/fedsoc/static/js/3.dca4562e.chunk.js",
-    "static/js/3.dca4562e.chunk.js.map": "/fedsoc/static/js/3.dca4562e.chunk.js.map",
+    "main.css": "/fedsoc/static/css/main.6cfb1ae0.chunk.css",
+    "main.js": "/fedsoc/static/js/main.c81e60d5.chunk.js",
+    "main.js.map": "/fedsoc/static/js/main.c81e60d5.chunk.js.map",
+    "runtime-main.js": "/fedsoc/static/js/runtime-main.676ee232.js",
+    "runtime-main.js.map": "/fedsoc/static/js/runtime-main.676ee232.js.map",
+    "static/js/2.e2840a51.chunk.js": "/fedsoc/static/js/2.e2840a51.chunk.js",
+    "static/js/2.e2840a51.chunk.js.map": "/fedsoc/static/js/2.e2840a51.chunk.js.map",
+    "static/js/3.c1ef7dce.chunk.js": "/fedsoc/static/js/3.c1ef7dce.chunk.js",
+    "static/js/3.c1ef7dce.chunk.js.map": "/fedsoc/static/js/3.c1ef7dce.chunk.js.map",
     "index.html": "/fedsoc/index.html",
-    "static/css/main.76e72c2d.chunk.css.map": "/fedsoc/static/css/main.76e72c2d.chunk.css.map",
-    "static/js/2.45861a36.chunk.js.LICENSE.txt": "/fedsoc/static/js/2.45861a36.chunk.js.LICENSE.txt",
+    "static/css/main.6cfb1ae0.chunk.css.map": "/fedsoc/static/css/main.6cfb1ae0.chunk.css.map",
+    "static/js/2.e2840a51.chunk.js.LICENSE.txt": "/fedsoc/static/js/2.e2840a51.chunk.js.LICENSE.txt",
     "static/media/FEDSOCLOGO.f0715834.PNG": "/fedsoc/static/media/FEDSOCLOGO.f0715834.PNG",
     "static/media/alexanderHamilton.39060873.jpg": "/fedsoc/static/media/alexanderHamilton.39060873.jpg",
     "static/media/judge.3ce20d6b.png": "/fedsoc/static/media/judge.3ce20d6b.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.540afd81.js",
-    "static/js/2.45861a36.chunk.js",
-    "static/css/main.76e72c2d.chunk.css",
-    "static/js/main.455c9ebe.chunk.js"
+    "static/js/runtime-main.676ee232.js",
+    "static/js/2.e2840a51.chunk.js",
+    "static/css/main.6cfb1ae0.chunk.css",
+    "static/js/main.c81e60d5.chunk.js"
   ]
 }
