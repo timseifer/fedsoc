@@ -1,25 +1,27 @@
 {
   "files": {
-    "main.css": "/fedsoc/static/css/main.6cfb1ae0.chunk.css",
-    "main.js": "/fedsoc/static/js/main.c81e60d5.chunk.js",
-    "main.js.map": "/fedsoc/static/js/main.c81e60d5.chunk.js.map",
-    "runtime-main.js": "/fedsoc/static/js/runtime-main.676ee232.js",
-    "runtime-main.js.map": "/fedsoc/static/js/runtime-main.676ee232.js.map",
-    "static/js/2.e2840a51.chunk.js": "/fedsoc/static/js/2.e2840a51.chunk.js",
-    "static/js/2.e2840a51.chunk.js.map": "/fedsoc/static/js/2.e2840a51.chunk.js.map",
-    "static/js/3.c1ef7dce.chunk.js": "/fedsoc/static/js/3.c1ef7dce.chunk.js",
-    "static/js/3.c1ef7dce.chunk.js.map": "/fedsoc/static/js/3.c1ef7dce.chunk.js.map",
-    "index.html": "/fedsoc/index.html",
-    "static/css/main.6cfb1ae0.chunk.css.map": "/fedsoc/static/css/main.6cfb1ae0.chunk.css.map",
-    "static/js/2.e2840a51.chunk.js.LICENSE.txt": "/fedsoc/static/js/2.e2840a51.chunk.js.LICENSE.txt",
-    "static/media/FEDSOCLOGO.f0715834.PNG": "/fedsoc/static/media/FEDSOCLOGO.f0715834.PNG",
-    "static/media/alexanderHamilton.39060873.jpg": "/fedsoc/static/media/alexanderHamilton.39060873.jpg",
-    "static/media/judge.3ce20d6b.png": "/fedsoc/static/media/judge.3ce20d6b.png"
+    "main.css": "/home/static/css/main.fd6eb256.chunk.css",
+    "main.js": "/home/static/js/main.4da04e1d.chunk.js",
+    "main.js.map": "/home/static/js/main.4da04e1d.chunk.js.map",
+    "runtime-main.js": "/home/static/js/runtime-main.6292ddd7.js",
+    "runtime-main.js.map": "/home/static/js/runtime-main.6292ddd7.js.map",
+    "static/js/2.6e0c40e5.chunk.js": "/home/static/js/2.6e0c40e5.chunk.js",
+    "static/js/2.6e0c40e5.chunk.js.map": "/home/static/js/2.6e0c40e5.chunk.js.map",
+    "static/js/3.7c0640c4.chunk.js": "/home/static/js/3.7c0640c4.chunk.js",
+    "static/js/3.7c0640c4.chunk.js.map": "/home/static/js/3.7c0640c4.chunk.js.map",
+    "index.html": "/home/index.html",
+    "static/css/main.fd6eb256.chunk.css.map": "/home/static/css/main.fd6eb256.chunk.css.map",
+    "static/js/2.6e0c40e5.chunk.js.LICENSE.txt": "/home/static/js/2.6e0c40e5.chunk.js.LICENSE.txt",
+    "static/media/FEDSOCLOGO.f0715834.PNG": "/home/static/media/FEDSOCLOGO.f0715834.PNG",
+    "static/media/alexanderHamilton.39060873.jpg": "/home/static/media/alexanderHamilton.39060873.jpg",
+    "static/media/About.css": "/home/static/media/capitalbest.00d0ec4d.jpg",
+    "static/media/judge.3ce20d6b.png": "/home/static/media/judge.3ce20d6b.png",
+    "static/media/Constitution.css": "/home/static/media/zai_USDeclaration.d7a8d01d.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.676ee232.js",
-    "static/js/2.e2840a51.chunk.js",
-    "static/css/main.6cfb1ae0.chunk.css",
-    "static/js/main.c81e60d5.chunk.js"
+    "static/js/runtime-main.6292ddd7.js",
+    "static/js/2.6e0c40e5.chunk.js",
+    "static/css/main.fd6eb256.chunk.css",
+    "static/js/main.4da04e1d.chunk.js"
   ]
 }
