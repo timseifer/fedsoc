@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/fedsoc/static/css/main.c898e156.chunk.css",
-    "main.js": "/fedsoc/static/js/main.4647d3c9.chunk.js",
-    "main.js.map": "/fedsoc/static/js/main.4647d3c9.chunk.js.map",
-    "runtime-main.js": "/fedsoc/static/js/runtime-main.5c737bc8.js",
-    "runtime-main.js.map": "/fedsoc/static/js/runtime-main.5c737bc8.js.map",
-    "static/js/2.3227e43a.chunk.js": "/fedsoc/static/js/2.3227e43a.chunk.js",
-    "static/js/2.3227e43a.chunk.js.map": "/fedsoc/static/js/2.3227e43a.chunk.js.map",
-    "static/js/3.7c0640c4.chunk.js": "/fedsoc/static/js/3.7c0640c4.chunk.js",
-    "static/js/3.7c0640c4.chunk.js.map": "/fedsoc/static/js/3.7c0640c4.chunk.js.map",
+    "main.css": "/fedsoc/static/css/main.9fea8e25.chunk.css",
+    "main.js": "/fedsoc/static/js/main.5db02502.chunk.js",
+    "main.js.map": "/fedsoc/static/js/main.5db02502.chunk.js.map",
+    "runtime-main.js": "/fedsoc/static/js/runtime-main.7848e37b.js",
+    "runtime-main.js.map": "/fedsoc/static/js/runtime-main.7848e37b.js.map",
+    "static/js/2.7bc811b2.chunk.js": "/fedsoc/static/js/2.7bc811b2.chunk.js",
+    "static/js/2.7bc811b2.chunk.js.map": "/fedsoc/static/js/2.7bc811b2.chunk.js.map",
+    "static/js/3.94c7b0f5.chunk.js": "/fedsoc/static/js/3.94c7b0f5.chunk.js",
+    "static/js/3.94c7b0f5.chunk.js.map": "/fedsoc/static/js/3.94c7b0f5.chunk.js.map",
     "index.html": "/fedsoc/index.html",
-    "static/css/main.c898e156.chunk.css.map": "/fedsoc/static/css/main.c898e156.chunk.css.map",
-    "static/js/2.3227e43a.chunk.js.LICENSE.txt": "/fedsoc/static/js/2.3227e43a.chunk.js.LICENSE.txt",
+    "static/css/main.9fea8e25.chunk.css.map": "/fedsoc/static/css/main.9fea8e25.chunk.css.map",
+    "static/js/2.7bc811b2.chunk.js.LICENSE.txt": "/fedsoc/static/js/2.7bc811b2.chunk.js.LICENSE.txt",
     "static/media/FEDSOCLOGO.f0715834.PNG": "/fedsoc/static/media/FEDSOCLOGO.f0715834.PNG",
+    "static/media/Vaughn.32b969f5.png": "/fedsoc/static/media/Vaughn.32b969f5.png",
     "static/media/alexanderHamilton.39060873.jpg": "/fedsoc/static/media/alexanderHamilton.39060873.jpg",
-    "static/media/About.css": "/fedsoc/static/media/capitalbest.00d0ec4d.jpg",
     "static/media/judge.3ce20d6b.png": "/fedsoc/static/media/judge.3ce20d6b.png",
     "static/media/Constitution.css": "/fedsoc/static/media/zai_USDeclaration.d7a8d01d.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.5c737bc8.js",
-    "static/js/2.3227e43a.chunk.js",
-    "static/css/main.c898e156.chunk.css",
-    "static/js/main.4647d3c9.chunk.js"
+    "static/js/runtime-main.7848e37b.js",
+    "static/js/2.7bc811b2.chunk.js",
+    "static/css/main.9fea8e25.chunk.css",
+    "static/js/main.5db02502.chunk.js"
   ]
 }
