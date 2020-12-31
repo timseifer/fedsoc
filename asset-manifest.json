@@ -1,27 +1,31 @@
 {
   "files": {
-    "main.css": "/fedsoc/static/css/main.9fea8e25.chunk.css",
-    "main.js": "/fedsoc/static/js/main.5db02502.chunk.js",
-    "main.js.map": "/fedsoc/static/js/main.5db02502.chunk.js.map",
+    "main.css": "/fedsoc/static/css/main.c4141cad.chunk.css",
+    "main.js": "/fedsoc/static/js/main.99664ea4.chunk.js",
+    "main.js.map": "/fedsoc/static/js/main.99664ea4.chunk.js.map",
     "runtime-main.js": "/fedsoc/static/js/runtime-main.7848e37b.js",
     "runtime-main.js.map": "/fedsoc/static/js/runtime-main.7848e37b.js.map",
-    "static/js/2.7bc811b2.chunk.js": "/fedsoc/static/js/2.7bc811b2.chunk.js",
-    "static/js/2.7bc811b2.chunk.js.map": "/fedsoc/static/js/2.7bc811b2.chunk.js.map",
+    "static/js/2.733c5aeb.chunk.js": "/fedsoc/static/js/2.733c5aeb.chunk.js",
+    "static/js/2.733c5aeb.chunk.js.map": "/fedsoc/static/js/2.733c5aeb.chunk.js.map",
     "static/js/3.94c7b0f5.chunk.js": "/fedsoc/static/js/3.94c7b0f5.chunk.js",
     "static/js/3.94c7b0f5.chunk.js.map": "/fedsoc/static/js/3.94c7b0f5.chunk.js.map",
     "index.html": "/fedsoc/index.html",
-    "static/css/main.9fea8e25.chunk.css.map": "/fedsoc/static/css/main.9fea8e25.chunk.css.map",
-    "static/js/2.7bc811b2.chunk.js.LICENSE.txt": "/fedsoc/static/js/2.7bc811b2.chunk.js.LICENSE.txt",
+    "static/css/main.c4141cad.chunk.css.map": "/fedsoc/static/css/main.c4141cad.chunk.css.map",
+    "static/js/2.733c5aeb.chunk.js.LICENSE.txt": "/fedsoc/static/js/2.733c5aeb.chunk.js.LICENSE.txt",
     "static/media/FEDSOCLOGO.f0715834.PNG": "/fedsoc/static/media/FEDSOCLOGO.f0715834.PNG",
+    "static/media/Tim.3c34c00a.PNG": "/fedsoc/static/media/Tim.3c34c00a.PNG",
     "static/media/Vaughn.32b969f5.png": "/fedsoc/static/media/Vaughn.32b969f5.png",
     "static/media/alexanderHamilton.39060873.jpg": "/fedsoc/static/media/alexanderHamilton.39060873.jpg",
+    "static/media/capitalbest.00d0ec4d.jpg": "/fedsoc/static/media/capitalbest.00d0ec4d.jpg",
+    "static/media/const-building.e87d2ec8.jpg": "/fedsoc/static/media/const-building.e87d2ec8.jpg",
+    "static/media/founding-fathers.27fa50a5.jpg": "/fedsoc/static/media/founding-fathers.27fa50a5.jpg",
     "static/media/judge.3ce20d6b.png": "/fedsoc/static/media/judge.3ce20d6b.png",
     "static/media/Constitution.css": "/fedsoc/static/media/zai_USDeclaration.d7a8d01d.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.7848e37b.js",
-    "static/js/2.7bc811b2.chunk.js",
-    "static/css/main.9fea8e25.chunk.css",
-    "static/js/main.5db02502.chunk.js"
+    "static/js/2.733c5aeb.chunk.js",
+    "static/css/main.c4141cad.chunk.css",
+    "static/js/main.99664ea4.chunk.js"
   ]
 }
