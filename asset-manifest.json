@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/fedsoc/static/css/main.80cf17b9.chunk.css",
+    "main.css": "/fedsoc/static/css/main.ec5c3e9e.chunk.css",
     "main.js": "/fedsoc/static/js/main.78b4b9db.chunk.js",
     "main.js.map": "/fedsoc/static/js/main.78b4b9db.chunk.js.map",
     "runtime-main.js": "/fedsoc/static/js/runtime-main.8a1eff14.js",
@@ -12,7 +12,7 @@
     "static/js/3.d5eae4a7.chunk.js.map": "/fedsoc/static/js/3.d5eae4a7.chunk.js.map",
     "index.html": "/fedsoc/index.html",
     "static/css/2.eb69c417.chunk.css.map": "/fedsoc/static/css/2.eb69c417.chunk.css.map",
-    "static/css/main.80cf17b9.chunk.css.map": "/fedsoc/static/css/main.80cf17b9.chunk.css.map",
+    "static/css/main.ec5c3e9e.chunk.css.map": "/fedsoc/static/css/main.ec5c3e9e.chunk.css.map",
     "static/js/2.ae9a6ea5.chunk.js.LICENSE.txt": "/fedsoc/static/js/2.ae9a6ea5.chunk.js.LICENSE.txt",
     "static/media/FEDSOCLOGO.f0715834.PNG": "/fedsoc/static/media/FEDSOCLOGO.f0715834.PNG",
     "static/media/Tim.3c34c00a.PNG": "/fedsoc/static/media/Tim.3c34c00a.PNG",
@@ -28,7 +28,7 @@
     "static/js/runtime-main.8a1eff14.js",
     "static/css/2.eb69c417.chunk.css",
     "static/js/2.ae9a6ea5.chunk.js",
-    "static/css/main.80cf17b9.chunk.css",
+    "static/css/main.ec5c3e9e.chunk.css",
     "static/js/main.78b4b9db.chunk.js"
   ]
 }
