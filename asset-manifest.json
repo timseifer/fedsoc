@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.6ce61232.chunk.css",
-    "main.js": "/static/js/main.2387d298.chunk.js",
-    "main.js.map": "/static/js/main.2387d298.chunk.js.map",
+    "main.js": "/static/js/main.02441794.chunk.js",
+    "main.js.map": "/static/js/main.02441794.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.626e28e6.js",
     "runtime-main.js.map": "/static/js/runtime-main.626e28e6.js.map",
     "static/css/2.eb69c417.chunk.css": "/static/css/2.eb69c417.chunk.css",
@@ -14,6 +14,7 @@
     "static/css/2.eb69c417.chunk.css.map": "/static/css/2.eb69c417.chunk.css.map",
     "static/css/main.6ce61232.chunk.css.map": "/static/css/main.6ce61232.chunk.css.map",
     "static/js/2.fb1466e3.chunk.js.LICENSE.txt": "/static/js/2.fb1466e3.chunk.js.LICENSE.txt",
+    "static/media/Boston.95312f17.jpg": "/static/media/Boston.95312f17.jpg",
     "static/media/FEDSOCLOGO.f5307c58.PNG": "/static/media/FEDSOCLOGO.f5307c58.PNG",
     "static/media/Tim.3c34c00a.PNG": "/static/media/Tim.3c34c00a.PNG",
     "static/media/Vaughn.32b969f5.png": "/static/media/Vaughn.32b969f5.png",
@@ -29,6 +30,6 @@
     "static/css/2.eb69c417.chunk.css",
     "static/js/2.fb1466e3.chunk.js",
     "static/css/main.6ce61232.chunk.css",
-    "static/js/main.2387d298.chunk.js"
+    "static/js/main.02441794.chunk.js"
   ]
 }
