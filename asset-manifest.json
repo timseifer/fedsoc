@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.6ce61232.chunk.css",
-    "main.js": "/static/js/main.e923fec3.chunk.js",
-    "main.js.map": "/static/js/main.e923fec3.chunk.js.map",
+    "main.js": "/static/js/main.cf8c4f72.chunk.js",
+    "main.js.map": "/static/js/main.cf8c4f72.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.626e28e6.js",
     "runtime-main.js.map": "/static/js/runtime-main.626e28e6.js.map",
     "static/css/2.eb69c417.chunk.css": "/static/css/2.eb69c417.chunk.css",
@@ -16,9 +16,9 @@
     "static/js/2.fb1466e3.chunk.js.LICENSE.txt": "/static/js/2.fb1466e3.chunk.js.LICENSE.txt",
     "static/media/Boston.95312f17.jpg": "/static/media/Boston.95312f17.jpg",
     "static/media/FEDSOCLOGO.f5307c58.PNG": "/static/media/FEDSOCLOGO.f5307c58.PNG",
-    "static/media/Tim.3c34c00a.PNG": "/static/media/Tim.3c34c00a.PNG",
     "static/media/Vaughn.32b969f5.png": "/static/media/Vaughn.32b969f5.png",
     "static/media/alexanderHamilton.39060873.jpg": "/static/media/alexanderHamilton.39060873.jpg",
+    "static/media/boston_freedom.755b4b76.jpg": "/static/media/boston_freedom.755b4b76.jpg",
     "static/media/capitalbest.00d0ec4d.jpg": "/static/media/capitalbest.00d0ec4d.jpg",
     "static/media/const-building.e87d2ec8.jpg": "/static/media/const-building.e87d2ec8.jpg",
     "static/media/founding-fathers.27fa50a5.jpg": "/static/media/founding-fathers.27fa50a5.jpg",
@@ -30,6 +30,6 @@
     "static/css/2.eb69c417.chunk.css",
     "static/js/2.fb1466e3.chunk.js",
     "static/css/main.6ce61232.chunk.css",
-    "static/js/main.e923fec3.chunk.js"
+    "static/js/main.cf8c4f72.chunk.js"
   ]
 }
